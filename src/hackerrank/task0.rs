@@ -1,4 +1,3 @@
-
 fn simple_array_sum(aa: &[i32]) -> i32 {
     let mut x: i32 = 0;
     for a in aa {
